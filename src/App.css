@@ -1,0 +1,11 @@
+.app{
+    margin: 5rem;    
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .app{
+        margin: 20rem 50rem;    
+        justify-content: center;
+    }
+}
